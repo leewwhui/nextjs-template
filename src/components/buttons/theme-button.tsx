@@ -19,7 +19,7 @@ export const ThemeButton = () => {
   }, []);
 
   return (
-    <Button onClick={changeTheme} variant="ghost">
+    <Button onClick={changeTheme} variant="ghost" size='sm'>
       {mounted && theme === "dark" ? <Icons.Sun /> : <Icons.Moon />}
     </Button>
   );

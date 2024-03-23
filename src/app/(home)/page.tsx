@@ -7,12 +7,12 @@ const Home = () => {
     <Shell className="gap-16">
       <section className="w-full min-h-80 flex flex-col items-center justify-center gap-4 text-center py-36 mx-auto bg-hero bg-cover bg-center rounded-md">
         <Typography.h1 classname="text-balance text-white">
-          An e-commerce skateshop built with everything new in Next.js
+          Website template with Next.js
         </Typography.h1>
 
         <Typography.lead classname="text-gray-300 text-balance max-w-[42rem]">
-          Buy and sell skateboarding gears from independent brands and stores
-          around the world with ease
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam
+          delectus corporis voluptas adipisci possimus, nobis fuga doloribus
         </Typography.lead>
       </section>
     </Shell>
